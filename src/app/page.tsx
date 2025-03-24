@@ -1,16 +1,9 @@
 'use client';
 
-
 import React, { useState, useEffect } from 'react';
 import Start from '@/app/components/start';
 import Result from '@/app/components/result';
 import question from '@/app/data/question.json';
-
-interface Question {
-  question: string;
-  choice: string[];
-  rightAnswer: string;
-}
 
 const Page = () => {
   const [quizStarted, setQuizStarted] = useState<boolean>(false);
