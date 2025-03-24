@@ -1,0 +1,28 @@
+[
+    {
+      "question": "What country do Italy, Spain, and Belgium all touch?",
+      "choice": ["Germany", "France", "Switzerland", "Netherlands"],
+      "rightAnswer": "France"
+    },
+    {
+      "question": "What country borders Portugal?",
+      "choice": ["Morocco", "Spain", "Italy", "Belgium"],
+      "rightAnswer": "Spain"
+    },
+    {
+      "question": "What country do Poland and Switzerland both touch?",
+      "choice": ["Austria", "Hungary", "Italy", "Germany"],
+      "rightAnswer": "Germany"
+    },
+    {
+      "question": "What country borders both Slovenia and France?",
+      "choice": ["Czech Republic", "Italy", "Netherlands", "Luxembourg"],
+      "rightAnswer": "Italy"
+    },
+    {
+      "question": "What country has land borders with Finland and North Korea?",
+      "choice": ["Russia", "Mongolia", "Sweden", "Kazakhstan"],
+      "rightAnswer": "Russia"
+    }
+  ]
+  
